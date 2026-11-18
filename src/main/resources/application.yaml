@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: lock-demo
+  mongodb:
+    uri: mongodb://xx:xxxxx@x:27017,x:27017/ota?replicaSet=rep-x&authSource=admin
